@@ -55,6 +55,9 @@ markdown_extensions:
 
 # Page tree
 nav:
+- Versions:
+  - 12.1: https://developer-docs.citrix.com/projects/citrix-adc-nitro-api-reference/en/latest/
+  - 12.0: https://developer-docs.citrix.com/projects/citrix-adc-nitro-api-reference/en/latest/
 - Home: index.md
 - Resources to Aid Customization: resources-to-aid-customization.md
 - Tools: tools.md
@@ -62,5 +65,4 @@ nav:
 - Customize Citrix Workspace app for Linux: customize.md
 - Experimental Features: experimental-features.md
 - Reference Information: reference-information.md
-- Versions:
-  - 12.1: https://developer-docs.citrix.com/projects/citrix-adc-nitro-api-reference/en/latest/
+
