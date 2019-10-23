@@ -62,3 +62,5 @@ nav:
 - Customize Citrix Workspace app for Linux: customize.md
 - Experimental Features: experimental-features.md
 - Reference Information: reference-information.md
+- Versions:
+  - 12.1: https://developer-docs.citrix.com/projects/citrix-adc-nitro-api-reference/en/latest/
